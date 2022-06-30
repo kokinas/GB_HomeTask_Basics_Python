@@ -1,4 +1,4 @@
-#Home task Basics python
+# Home task Basics python
 ###Lesson #1
 
 # Task #1.3 n + nn + nnn?
